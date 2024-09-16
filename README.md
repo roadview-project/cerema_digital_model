@@ -16,7 +16,6 @@ Swiss participants in this project are co-funded by the Swiss State Secretariat 
 
 # Citation
 
-
 # Other ROADVIEW-Project Works:
 
 [Carissma Digital Model](https://github.com/roadview-project/carissma_digital_model/tree/main)
